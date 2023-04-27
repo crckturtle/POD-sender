@@ -1,0 +1,1 @@
+The Add IP Addresses option does not yet have a function however it does add to "ips.log" to clear ips simply clear the file.
