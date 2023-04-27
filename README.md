@@ -12,7 +12,6 @@ The config folder is not important, it is being used for future additions.
 
 !! Upcoming Features !!
 
-- Addition of config file containing past I.P. Addresses used.
 - ipconfig command used in batch file and automatically pulls necessary compenents
-- Private I.P. Puller within"# LOPC" 
-"# LOPC" 
+- Private I.P. Puller within
+- Script to help navigate between both versions of program
